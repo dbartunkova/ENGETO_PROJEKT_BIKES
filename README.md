@@ -1,13 +1,10 @@
 # ENGETO_PROJEKT_BIKES
 
-### V rámci kurzu Online Datová Akademie jsem zpracovala data týkající se systému "bike sharing" ve městě Edinburgh. 
+#### V rámci kurzu Online Datová Akademie jsem zpracovala data týkající se systému "bike sharing" ve městě Edinburgh. Cílem provozovatele kol (firmy Just Eat Cycles) je zefektivnění tohoto systému tak, aby se na některých stanicích kola nehromadila a na jiných naopak nechyběla.
 
 
-### Zadání projektu: 
 
-V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" - ve městě jsou stanice s koly, člověk si může nějaké půjčit a potom ho vrátit v nějaké další stanici. Problém je, že v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. Provozovatel kol, firma Just Eat Cycles, zadala projekt, jehož cílem je systém zefektivnit.
-
-Coby datový analytik jste součástí týmu, který na projektu pracuje. Vaším úkolem je zpracovat relevantní data a zjistit z nich informace užitečné pro zbytek týmu. Máte k dispozici data o všech výpůjčkách (na ENGETO databázi v tabulce edinburgh_bikes). Proveďte standardní deskriptivní statistiku dat. Také zjistěte minimálně následující informace:
+Výsledkem je jupyter notebook obsahující deskriptivní popis dat a odpovědi na níže uvedené otázky: 
 
 - identifikujte aktivní a neaktivní stanice
 - identifikujte nejfrekventovanější stanice
